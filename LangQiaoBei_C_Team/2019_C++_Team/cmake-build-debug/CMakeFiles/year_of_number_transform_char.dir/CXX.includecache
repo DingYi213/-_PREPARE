@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/OJ_C++/LangQiaoBei_C_Team/2019_C++_Team/year_of_number_transform_char/year_of_number_transform_char.cpp
+iostream
+-
+map
+-
+string
+-
+

@@ -1,0 +1,3 @@
+"E:\CLion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\2019_C___Team.dir/objects.a
+D:\MinGW\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\bin\ar.exe cr CMakeFiles\2019_C___Team.dir/objects.a @CMakeFiles\2019_C___Team.dir\objects1.rsp
+D:\MinGW\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\2019_C___Team.dir/objects.a -Wl,--no-whole-archive  -o 2019_C___Team.exe -Wl,--out-implib,lib2019_C___Team.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\2019_C___Team.dir\linklibs.rsp

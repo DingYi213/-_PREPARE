@@ -1,0 +1,3 @@
+"E:\CLion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\summtion.dir/objects.a
+D:\MinGW\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\bin\ar.exe cr CMakeFiles\summtion.dir/objects.a @CMakeFiles\summtion.dir\objects1.rsp
+D:\MinGW\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\summtion.dir/objects.a -Wl,--no-whole-archive  -o summtion.exe -Wl,--out-implib,libsummtion.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\summtion.dir\linklibs.rsp
