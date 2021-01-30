@@ -1,0 +1,3 @@
+"E:\CLion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Chapter_one.dir/objects.a
+D:\MinGW\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\bin\ar.exe cr CMakeFiles\Chapter_one.dir/objects.a @CMakeFiles\Chapter_one.dir\objects1.rsp
+D:\MinGW\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Chapter_one.dir/objects.a -Wl,--no-whole-archive  -o Chapter_one.exe -Wl,--out-implib,libChapter_one.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Chapter_one.dir\linklibs.rsp
