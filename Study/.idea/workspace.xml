@@ -39,6 +39,13 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -55,9 +62,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../LangQiaoBei_C_Team/2019_C++_Team/CMakeLists.txt" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
     <configuration name="average" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Chapter_one" TARGET_NAME="average" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Chapter_one" RUN_TARGET_NAME="average">
@@ -81,6 +88,7 @@
       <updated>1612014467075</updated>
       <workItem from="1612014468306" duration="2617000" />
       <workItem from="1612017157216" duration="457000" />
+      <workItem from="1612017751796" duration="42000" />
     </task>
     <servers />
   </component>
